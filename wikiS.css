@@ -1,0 +1,43 @@
+body {
+   background: url('../imgs/wiki.png') no-repeat;
+   background-position-x: center;
+   background-position-y: 125px;
+   margin-top: 5px;
+   background-color: #82c7f2;
+}
+
+#user {
+   height: 28px;
+}
+
+#form {
+   margin-left: 35%;
+   margin-top: 20px;
+   margin-bottom: 70px;
+}
+
+#loupe {
+   float: left;
+   margin-right: 7px;
+}
+
+.wrapper {
+   width: 420px;
+   height: 20px;
+}
+
+#contenu {
+   margin-top: 300px;
+   display: flex;
+   flex-wrap: wrap;
+   align-content: stretch;
+   justify-content: space-around;
+}
+
+.well {
+   width: 205px;
+}
+
+#text {
+   font-size: 14px;
+}
