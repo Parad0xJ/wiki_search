@@ -9,3 +9,5 @@ J'ai utilisé ;
 -css3
 -bootstrap
 -jQuery
+
+Avertissement : Il faudra cliquer sur la loupe pour faire apparaitre le formulaire de recherche.
