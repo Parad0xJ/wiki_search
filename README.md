@@ -15,3 +15,5 @@ Avertissement : Il faudra cliquer sur la loupe pour faire apparaitre le formulai
 Avertissement 2 : Cette application est une de mes toutes premières applications codées , avec integration d'une API. Elle date de Aout 2017, je pense que je ferais beaucoup mieux aujourd'hui.
 
 Demo (Tester l'application) : https://parad0xj.github.io/wiki_search/
+
+> Parad0xJ / Laurent C
